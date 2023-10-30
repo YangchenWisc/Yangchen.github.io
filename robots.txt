@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yangchenhe.github.io//sitemap.xml
+Sitemap: https://YangchenWisc.github.io/sitemap.xml
